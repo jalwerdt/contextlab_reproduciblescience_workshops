@@ -2,3 +2,4 @@
 .DS_Store
 scripts/.Rhistory
 data/fake reviews dataset.csv
+data/test.csv
